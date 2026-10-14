@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=160&section=header&text=Gabriel%20Fernandes%20de%20Lara&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20Web%20%7C%20Estudante%20de%20ADS&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:3730A3&height=160&section=header&text=Gabriel%20Fernandes%20de%20Lara&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20Web%20%7C%20Estudante%20de%20ADS&descAlignY=58&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Desenvolvimento+Front-end+e+Back-end;Rumo+ao+Full-stack;Curitiba+%2F+PR" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=818CF8&center=true&vCenter=true&width=520&lines=Desenvolvimento+Front-end+e+Back-end;Rumo+ao+Full-stack;Curitiba+%2F+PR" alt="Typing SVG" />
 
 <br/>
 
@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>DeadByRandomizer</h3>
+      <h3><img src="https://raw.githubusercontent.com/gabrielfernandesdelara/DeadByRandomizer/main/assets/images/icons/Icon.png" alt="" width="28" align="absmiddle" /> DeadByRandomizer</h3>
       <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=flat-square" />
       <p>Gerador de builds aleatórias para Dead by Daylight, com mais de 300 perks organizadas por personagem e categoria.</p>
       <p>
@@ -42,7 +42,7 @@
       <a href="https://github.com/gabrielfernandesdelara/DeadByRandomizer">Código</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Pokemon-Random-Info</h3>
+      <h3><img src="https://raw.githubusercontent.com/gabrielfernandesdelara/Pokemon-Random-Info/main/Src/Images/Leavanny-icon.png" alt="" width="28" align="absmiddle" /> Pokemon-Random-Info</h3>
       <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=flat-square" />
       <p>Monta um time de até 6 Pokémon aleatórios, sem repetições, consumindo dados da PokéAPI.</p>
       <p>
@@ -66,5 +66,5 @@ Projetos em que o código foi escrito majoritariamente com Claude Code, com deci
 -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3730A3,100:1E1B4B&height=100&section=footer" width="100%" />
 </div>
