@@ -49,7 +49,7 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Pok%C3%A9API-EF5350?style=flat-square" />
       </p>
-      <!-- Depois do deploy, adicione antes do Código: <a href="LINK_DO_DEPLOY">Ver online</a> · -->
+      <a href="https://pokemon-randomizer-team.vercel.app/">Ver online</a> ·
       <a href="https://github.com/gabrielfernandesdelara/Pokemon-Random-Info">Código</a>
     </td>
   </tr>
