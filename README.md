@@ -43,7 +43,7 @@
     </td>
     <td width="50%" valign="top">
       <h3><img src="https://raw.githubusercontent.com/gabrielfernandesdelara/Pokemon-Random-Info/main/Src/Images/Leavanny-icon.png" alt="" width="28" align="absmiddle" /> Pokemon-Random-Info</h3>
-      <img src="https://img.shields.io/badge/status-%20finalizado-brightgreen?style=flat-square" />
+      <img src="https://img.shields.io/badge/status-finalizado-brightgreen?style=flat-square" />
       <p>Monta um time de até 6 Pokémon aleatórios, sem repetições, consumindo dados da PokéAPI.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
