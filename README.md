@@ -55,15 +55,29 @@
   </tr>
 </table>
 
-<!--
-## Projetos construídos com IA
+<details>
+  <summary><strong>Projetos construídos com IA</strong></summary>
+  <br/>
+  <p>Projetos em que o código foi escrito majoritariamente com Claude Code, com decisões sobre o produto e testes feitos por mim.</p>
 
-Projetos em que o código foi escrito majoritariamente com Claude Code, com decisões de arquitetura e testes feitos por mim.
+<table>
+  <tr>
+    <td valign="top">
+      <h3><img src="https://raw.githubusercontent.com/gabrielfernandesdelara/LiveOn/main/build/icon.png" alt="" width="28" align="absmiddle" /> LiveOn</h3>
+      <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=flat-square" />
+      <p>App desktop de compartilhamento de tela com áudio do sistema para grupos pequenos, com conexão direta entre os computadores.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+      </p>
+      <a href="https://github.com/gabrielfernandesdelara/LiveOn/releases/latest">Baixar</a> ·
+      <a href="https://github.com/gabrielfernandesdelara/LiveOn">Código</a>
+    </td>
+  </tr>
+</table>
 
-| Projeto | Descrição |
-|---------|-----------|
-| [Nome](link) | Descrição curta |
--->
+</details>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3730A3,100:1E1B4B&height=100&section=footer" width="100%" />
